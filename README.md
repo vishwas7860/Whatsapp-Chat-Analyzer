@@ -1,2 +1,2 @@
 ##### We are using Streamlit for UI
-It analyze the chats between users and plot some Informative data graphs
+It analyzes the chats between users and plots some Informative data graphs
